@@ -27,6 +27,5 @@ I’d love to publish at **ICML** one day — not just for the paper, but to con
 
 ---
 
-### 📫 Find me here  
-- Linkedin: [@marina-igitkhanian]([https://github.com/marigitkh](https://www.linkedin.com/in/marina-igitkhanian/))  
+### 📫 Contact me
 - Email: marina.igitkhanian@gmail.com
