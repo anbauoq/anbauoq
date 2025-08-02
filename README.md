@@ -1,9 +1,7 @@
 # Heyy, I am Marina 👋
 
-
-I am Data Scientist with a focus on NLP, large language models, and model reliability.  
-BSc in Data Science — American University of Armenia  
-Currently: Data Science Intern @ServiceTitan. I research hallucinations in LLM-based voice assistants.
+I’m a Data Scientist specializing in NLP, large language models, and model reliability.  
+I hold a BSc in Data Science from the American University of Armenia and currently work as a Data Science Intern at **ServiceTitan**, where I research hallucinations in LLM-powered voice assistants.
 
 
 ## 🔬 Interests & Technical Focus
