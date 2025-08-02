@@ -1,31 +1,38 @@
-# Heyy, I am Marina
-
-I work on understanding why language models sometimes get things wrong.
-
-I’m currently a Data Science Intern at **ServiceTitan**, where I research hallucinations in LLM-powered voice assistants.
+# Heyy, I am Marina 👋
 
 
-
-### 🌌 What I’m interested in
-- Detecting subtle, confident hallucinations in LLMs  
-- Pushing reasoning beyond surface-level pattern matching  
-- Smarter evaluation methods
-- Long-context modeling, latent variables, and deeper representations  
-- Exploring the boundary between parroting and actual reasoning
+I am Data Scientist with a focus on NLP, large language models, and model reliability.  
+BSc in Data Science — American University of Armenia  
+Currently: Data Science Intern @ServiceTitan. I research hallucinations in LLM-based voice assistants.
 
 
+## 🔬 Interests & Technical Focus
 
-### 🎯 My goal  
-I’d love to publish at **ICML** one day — not just for the paper, but to contribute meaningful insights into how and why these models break.
+I'm especially interested in making language models more accurate, interpretable, and robust. Topics I care about include:
+
+- **LLM Reasoning**: step-by-step thinking, scratchpad methods, analogical reasoning  
+- **Inference-time Optimization**: meta-generation, parallel decoding, self-correction  
+- **Post-Training Techniques**: SFT, RLHF, DPO, GRPO, curriculum learning  
+- **Robustness & Security**: jailbreak detection, adversarial attacks, red teaming  
+- **Evaluation Without Supervision**: verifier-based scoring, uncertainty modeling  
+- **Long-context & Agents**: retrieval-augmented generation, tool use, structured memory
 
 
+## 🎓 Academic Background
 
-### 🛠️ How I’m working toward it
-- NLP, LLMs, and model interpretability  
-- Studying model behavior, self-refinement, and failure patterns  
-- Running lots of experiments and learning from messy outputs
+- **BSc in Data Science**, American University of Armenia (2021–2025)  
+  - Senior thesis: *Do LLMs Know What, Where, and Why They Lack?*  
+    (focused on self-refinement and arithmetic reasoning failures)
+
+I’ve also independently studied foundational ML theory — e.g., completed *Bishop’s Pattern Recognition and Machine Learning*.
 
 
+## 📌 Goals
 
-### 📫 Contact me
-- Email: marina.igitkhanian@gmail.com
+I’m working toward building **LLMs that reason better, fail more transparently, and know when not to answer**.  
+My long-term goal is to publish at **ICML**, contributing to safe and interpretable AI systems.
+
+
+## 📫 Contact me
+
+Email: marina.igitkhanian@gmail.com
