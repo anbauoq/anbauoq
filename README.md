@@ -1,16 +1,32 @@
-## Hi there 👋
+# Heyy, I am Marina
 
-<!--
-**anbauoq/anbauoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on understanding why language models sometimes get things wrong.
 
-Here are some ideas to get you started:
+I’m currently a Data Science Intern at **ServiceTitan**, where I research hallucinations in LLM-powered voice assistants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌌 What I’m interested in
+- Detecting subtle, confident hallucinations in LLMs  
+- Pushing reasoning beyond surface-level pattern matching  
+- Smarter evaluation methods
+- Long-context modeling, latent variables, and deeper representations  
+- Exploring the boundary between parroting and actual reasoning
+
+---
+
+### 🎯 My goal  
+I’d love to publish at **ICML** one day — not just for the paper, but to contribute meaningful insights into how and why these models break.
+
+---
+
+### 🛠️ How I’m working toward it
+- NLP, LLMs, and model interpretability  
+- Studying model behavior, self-refinement, and failure patterns  
+- Running lots of experiments and learning from messy outputs
+
+---
+
+### 📫 Find me here  
+- Linkedin: [@marina-igitkhanian]([https://github.com/marigitkh](https://www.linkedin.com/in/marina-igitkhanian/))  
+- Email: marina.igitkhanian@gmail.com
