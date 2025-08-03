@@ -16,15 +16,6 @@ I'm especially interested in making language models more accurate, interpretable
 - **Long-context & Agents**: retrieval-augmented generation, tool use, structured memory
 
 
-## 🎓 Academic Background
-
-- **BSc in Data Science**, American University of Armenia (2021–2025)  
-  - Senior thesis: *Do LLMs Know What, Where, and Why They Lack?*  
-    (focused on self-refinement and arithmetic reasoning failures)
-
-I’ve also independently studied foundational ML theory — e.g., completed *Bishop’s Pattern Recognition and Machine Learning*.
-
-
 ## 📌 Goals
 
 I’m working toward building **LLMs that reason better, fail more transparently, and know when not to answer**.  
