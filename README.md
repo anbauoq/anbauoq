@@ -1,4 +1,4 @@
 learning systems, end to end.
-scoped builds. measurable outcomes.
+scoped builds.
 
 **say hi:** marina.igitkhanian@gmail.com
