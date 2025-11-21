@@ -1,4 +1,3 @@
-learning systems, end to end.
-scoped builds.
+i am ml engineer.
 
 **say hi:** marina.igitkhanian@gmail.com
